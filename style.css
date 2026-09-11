@@ -1012,7 +1012,6 @@ textarea.form-input {
 }
 
 @media(prefers-reduced-motion:reduce) {
-
     *,
     *::before,
     *:after {
@@ -1119,7 +1118,6 @@ textarea.form-input {
 }
 
 @keyframes giftFloat {
-
     0%,
     100% {
         transform: rotate(7deg) translateY(0)
@@ -1131,7 +1129,6 @@ textarea.form-input {
 }
 
 @keyframes sparkle {
-
     0%,
     100% {
         opacity: .25;
@@ -1166,7 +1163,6 @@ textarea.form-input {
 }
 
 @media(prefers-reduced-motion:reduce) {
-
     .gift-decoration,
     .gift-spark {
         animation: none
@@ -1218,7 +1214,6 @@ textarea.form-input {
 }
 
 @keyframes customGiftFloat {
-
     0%,
     100% {
         transform: rotate(-5deg) translateY(0)
@@ -1339,7 +1334,6 @@ textarea.form-input {
 }
 
 @keyframes lidWiggle {
-
     0%,
     70%,
     100% {
@@ -1360,7 +1354,6 @@ textarea.form-input {
 }
 
 @keyframes boxShine {
-
     0%,
     45% {
         opacity: 0;
@@ -1379,7 +1372,6 @@ textarea.form-input {
 }
 
 @keyframes confettiDrop {
-
     0%,
     100% {
         opacity: 0;
@@ -1398,7 +1390,6 @@ textarea.form-input {
 }
 
 @media(prefers-reduced-motion:reduce) {
-
     .gift-orbit,
     .gift-lid,
     .gift-shine,
